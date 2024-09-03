@@ -48,7 +48,7 @@ global.autoswview = true //auto view status/story
 //v2 is link + image menu,
 //v3 is video menu,
 //v4 is call end menu
-global.typemenu = 'v1'
+global.typemenu = 'v2'
 
 //text bug
 global.xbugtex = {
@@ -59,12 +59,12 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 //reply messages
 global.mess = {
     done: 'Done !',
-    prem: 'This feature can be used by premium user only or by LORD BADBOI',
-    admin: 'This feature can be used by admin only or by LORD BADBOI',
-    botAdmin: 'This feature can only be used when the bot is a group admin or by LORD BADBOI',
-    owner: 'This feature can be used by owner only or by LORD BADBOI',
-    group: 'This feature is only for groups or by LORD BADBOI',
-    private: 'This feature is only for private chats or by LORD BADBOI',
+    prem: 'This feature can be used by premium user only or by 💀LORD 🕷BADBOI🕷',
+    admin: 'This feature can be used by admin only or by 💀LORD 🕷BADBOI🕷',
+    botAdmin: 'This feature can only be used when the bot is a group admin or by 💀LORD 🕷BADBOI🕷',
+    owner: 'This feature can be used by owner only or by 💀LORD 🕷BADBOI🕷',
+    group: 'This feature is only for groups or by 💀LORD 🕷BADBOI🕷',
+    private: 'This feature is only for private chats or by 💀LORD 🕷BADBOI🕷',
     wait: 'In process... ',    
     error: 'Error!',
 }
