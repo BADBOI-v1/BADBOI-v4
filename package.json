@@ -1,7 +1,7 @@
 {
-  "name": "dcx",
+  "name": "bad",
   "version": "0.0.1",
-  "description": "Anita Is a Simple WA Bot Using Library Baileys",
+  "description": "Badboi Is a Simple WA Bot Using Library Baileys",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
@@ -11,7 +11,7 @@
     "whiskeysockets",
     "multi-device"
   ],
-  "author": "DavidCyril",
+  "author": "Badboi",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "npm:@whiskeysockets/baileys@6.6.0",
