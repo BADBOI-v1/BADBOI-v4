@@ -6,7 +6,7 @@
 //WhatsApp: +2348140825959
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@BADBOI-k2i
 
-require('./settings')
+require('./badboiset')
 const pino = require('pino')
 const { Boom } = require('@hapi/boom')
 const fs = require('fs')
