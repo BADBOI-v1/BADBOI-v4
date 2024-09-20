@@ -1,8 +1,8 @@
-# BADBOI-v4
+
 
 <h1 align="center">ꪶBADBOI-v4 BUGꫂ<br></h1>
 <p align="center">
-<img src="https://telegra.ph/file/2fc766ab7467ded0fac9c.png" />
+<img src="https://a.uguu.se/UYJyBjwc.jpg" />
 </p>
 
 <p align="center">
