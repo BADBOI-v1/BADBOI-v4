@@ -19,7 +19,7 @@ global.location = "Nigeria, Ogun-state, ilese"
 
 global.ownernumber = '2348140xxxxxx'  //creator number
 global.ownername = '🤴𝓚𝓘𝓝𝓖 ℬ𝓐𝓓ℬ𝓞𝓘' //owner name
-global.botname = 'ℬ𝓐𝓓ℬ𝓞𝓘-V5ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
+global.botname = 'ℬ𝓐𝓓ℬ𝓞𝓘-V4ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
